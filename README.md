@@ -1,6 +1,7 @@
-  <div align="center">
-  <img src="./saurabh%40devos%20~%20%25%20.%2Fprofile.sh%20--live.png" alt="Profile Banner" width="100%" />
+<div align="center">
+  <img src="./banner.png" alt="Profile Banner" width="100%" />
 </div>
+
 # Hi there, I'm Saurabh 👋
  
 ```bash
