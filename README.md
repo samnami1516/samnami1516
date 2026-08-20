@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="./banner.png" alt="Profile Banner" width="100%" />
+  <img src="./banners.png" alt="Profile Banner" width="100%" />
 </div>
+
 
 # Hi there, I'm Saurabh 👋
  
